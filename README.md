@@ -4,13 +4,13 @@
 
 
 <p align="center">
-  <a href="https://www.facebook.com/hoangphuc.trinh.0201" alt="Facebook">
+  <a href="https://www.facebook.com/phuc.se.0201" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
   <a href="https://github.com/phuc0201" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
-  <a href="mailto:hoangphuc01022002@gmail.com" alt="Email">
+  <a href="mailto:phucdev0201@outlook.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
