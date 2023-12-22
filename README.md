@@ -40,7 +40,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img alt="Coder GIF" height=250 width=350 src="https://media4.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif" />
+        <img alt="Coder GIF" height=250 width=350 src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
       </p>
     </td>
   </tr>
