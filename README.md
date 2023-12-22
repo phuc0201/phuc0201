@@ -50,10 +50,10 @@
 <table>
   <tr>
     <td>
-      ![](https://github-readme-stats.vercel.app/api/pin/?username=phuc0201&repo=GoP-admin&cache_seconds=86400&theme=vue  )
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=phuc0201&repo=GoP-admin&cache_seconds=86400&theme=vue"/>
     </td>
     <td>
-      ![](https://github-readme-stats.vercel.app/api/pin/?username=phuc0201&repo=Social_Media_App&cache_seconds=86400&theme=swift)
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=phuc0201&repo=Social_Media_App&cache_seconds=86400&theme=swift"/>
     </td>
   </tr>
 </table>
