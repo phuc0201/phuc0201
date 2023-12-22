@@ -49,3 +49,5 @@
 # Top project
 
 ![](https://github-readme-stats.vercel.app/api/pin/?username=phuc0201&repo=GoP-admin&cache_seconds=86400&theme=vue  )
+
+![](https://github-readme-stats.vercel.app/api/pin/?username=phuc0201&repo=Social_Media_App&cache_seconds=86400&theme=vue  )
