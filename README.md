@@ -31,6 +31,7 @@
   <img width="48" height="48" src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/000000/git.png"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/000000/github-2.png"/>
+  <img width="48" height="48" src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000"/>
 </p>
 
 ## Activities:
