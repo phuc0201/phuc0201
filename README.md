@@ -25,12 +25,12 @@
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
   <img width="48" height="48" src="https://img.icons8.com/?size=100&id=l9a5tcSnBwcf&format=png&color=000000" alt="Angular"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img width="48" height="48" src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/000000/github-2.png"/>
 </p>
 
 ## Activities:
