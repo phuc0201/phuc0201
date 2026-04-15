@@ -53,6 +53,7 @@
 <p align="center">
   <img width="45" src="https://img.icons8.com/color/48/git.png"/>
   <img width="45" src="https://img.icons8.com/color/48/github-2.png"/>
+  <img width="45" src="https://img.icons8.com/color/48/docker.png"/>
 </p>
 
 ## Activities:
