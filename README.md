@@ -16,40 +16,26 @@
 </p>
 
 ## Technical skills:
-<!-- FRONTEND -->
-<h4 align="center">🎨 Frontend</h4>
 <p align="center">
   <img width="45" src="https://img.icons8.com/color/48/javascript--v1.png"/>
   <img width="45" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000"/>
   <img width="45" src="https://img.icons8.com/color/48/react-native.png"/>
   <img width="45" src="https://img.icons8.com/?size=100&id=l9a5tcSnBwcf&format=png&color=000000"/>
 </p>
-
 <br/>
-
-<!-- BACKEND -->
-<h4 align="center">⚙️ Backend</h4>
 <p align="center">
   <img width="45" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png"/>
   <img width="45" src="https://img.icons8.com/color/48/c-sharp-logo-2.png"/>
   <img width="45" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png"/>
   <img width="45" src="https://img.icons8.com/fluency/48/node-js.png"/>
 </p>
-
 <br/>
-
-<!-- DATABASE -->
-<h4 align="center">🗄️ Database</h4>
 <p align="center">
   <img width="45" src="https://img.icons8.com/color/48/microsoft-sql-server.png"/>
   <img width="45" src="https://img.icons8.com/color/48/mysql-logo.png"/>
   <img width="45" src="https://img.icons8.com/color/48/mongodb.png"/>
 </p>
-
 <br/>
-
-<!-- TOOLS -->
-<h4 align="center">🧰 Tools</h4>
 <p align="center">
   <img width="45" src="https://img.icons8.com/color/48/git.png"/>
   <img width="45" src="https://img.icons8.com/color/48/github-2.png"/>
