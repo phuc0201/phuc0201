@@ -16,7 +16,7 @@
 </p>
 
 ## Technical skills:
-<p align="center" style={"display: flex;"}>
+<p align="center" style={display: flex;}>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="typescript"/>
