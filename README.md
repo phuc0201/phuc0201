@@ -25,6 +25,8 @@
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
   <img width="48" height="48" src="https://img.icons8.com/?size=100&id=l9a5tcSnBwcf&format=png&color=000000" alt="Angular"/>
+</p>
+<p align="center">
   <img width="48" height="48" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
